@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-18T06:55:26.309Z</updated>
+    <updated>2019-08-18T07:48:26.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,4 +10,68 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第一篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-yi-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-yi-pian">
+        </link>
+        <updated>2019-08-18T07:04:17.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>address    vt.演说;n.地址;</li>
+<li>algorithm    n.算数,运算法则;</li>
+<li>android    n.机器人,安卓操作系统;</li>
+<li>API    addr.应用程序接口;</li>
+<li>applet    n.支程序,小应用程序;</li>
+<li>application    n.申请,应用程序;</li>
+<li>arguments    n.参数;</li>
+<li>ASCII    abbr.美国信息交换标准码;</li>
+<li>aseert    vt.坚持,声称;</li>
+<li>author    n.作者;</li>
+<li>class    java类;</li>
+<li>classpath    n.类路径(一个环境变量);</li>
+<li>code    n.代码,vt.编码;</li>
+<li>command    vi.命令,控制;</li>
+<li>compilation    n.编辑;</li>
+<li>compile    vt.编译,编辑;</li>
+<li>console    n.[计]控制台,[电]操纵台;</li>
+<li>CPU    abbr.中央处理器;</li>
+<li>development    n.发展,开发;</li>
+<li>directory    n.[计]目录;</li>
+<li>document    n.[计]文档,证件;</li>
+<li>eclipse    一个集成开发环境;</li>
+<li>edit    vt.编辑,校订;</li>
+<li>edition    n.版本;</li>
+<li>encoding    n. v.[计]编码；</li>
+<li>execute    vt.实行,执行;</li>
+<li>exist    vi.存在;</li>
+<li>folder    n.文件夹;</li>
+<li>IDE    集成开发环境;</li>
+<li>javac    n.java编译程序;</li>
+<li>JDK    abbr.java开发工具包;</li>
+<li>JRE    abbr.java运行环境;</li>
+<li>JVM    abbr.java虚拟机;</li>
+<li>Kit    n.工具箱;</li>
+<li>lang    abbr.语言(language);</li>
+<li>line    n.路线,排;vt.排成一行;</li>
+<li>machine    n.机械;机器;</li>
+<li>main    n.主要部分,java:主方法;</li>
+<li>micro    adj.极小的,微小的;</li>
+<li>out    adj.外面的;</li>
+<li>param    abbr.参数;</li>
+<li>path    n.道路,路径;</li>
+<li>platform    n.平台;</li>
+<li>print    vt.印刷,打印;</li>
+<li>println    n.换行打印;</li>
+<li>program    n.程序;</li>
+<li>programming    n.设计,编制程序；</li>
+<li>public    adj.公共的,公用的;</li>
+<li>source code    源程序;</li>
+<li>standard    n.标准;</li>
+<li>system    n.制度,系统;</li>
+<li>version    n.版本;</li>
+<li>void    adj.空的,无效的;</li>
+<li>word    n.单词,消息;</li>
+</ol>
+]]></content>
+    </entry>
 </feed>
