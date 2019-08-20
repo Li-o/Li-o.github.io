@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-19T02:02:35.250Z</updated>
+    <updated>2019-08-20T00:45:37.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,69 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第三篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-san-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-san-pian">
+        </link>
+        <updated>2019-08-20T00:02:59.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>process    vt.处理;n.过程,进行,方法,步骤;</li>
+<li>access    vt.使用,存储;n.进入;</li>
+<li>anonymous    adj.匿名的,无名的;</li>
+<li>encapsulation    n.封装,包装;</li>
+<li>extends    v.延伸,继承;</li>
+<li>import    n.进口,进口货;vt.输入,进口;</li>
+<li>info    n.信息,情报;</li>
+<li>initialize    vt.初始化;</li>
+<li>overload    重载;</li>
+<li>object    n.目标,物体,对象;</li>
+<li>protected    adj.受保护的;</li>
+<li>get    vt.使得,获得;vi.成为,变为,到达;</li>
+<li>add    vt.增加,添加;n.加法;</li>
+<li>create    vt.创作,创造,造成;</li>
+<li>private    adj.私人的,私有的;</li>
+<li>method    n.方法,条理;</li>
+<li>result    n.结果,成绩;vi.结果;</li>
+<li>allow    vt.允许,给予,认可;vi.容许,考虑;</li>
+<li>value    n.值,价值,价格;vt.评价,重视;</li>
+<li>field    属性,域;</li>
+<li>constructor    n.构造函数,构造器,建造者;</li>
+<li>display    n.显示;vt.显示,表现;</li>
+<li>instance    n.实列,情况,建议;vt.举...为例;</li>
+<li>bottom    n.底部,尽头;adj.底部的;</li>
+<li>parameter    n.参数,系数;</li>
+<li>destroy    vt.破坏,消灭,毁坏;</li>
+<li>base    n.底部,基础;vt.以...作基础;</li>
+<li>release    vt.释放;n.释放,发布;</li>
+<li>atomic    adj.原子的,原子能的;</li>
+<li>instantiate    vt.列示,举例说明;</li>
+<li>instantiated    v.实例化;</li>
+<li>ambiguous    adj.模糊不清的,引起歧义的;</li>
+<li>package    程序包;</li>
+<li>this    pron.这个;</li>
+<li>oop    abbr.面向对象程序设计;</li>
+<li>return  type    返回类型;</li>
+<li>return  value    返回值,传回值;</li>
+<li>overloaded    adj.超载的,使超载;</li>
+<li>setter    n.调节器;</li>
+<li>construct    vt.建造,构造,创造;n.构想,概念;</li>
+<li>transfer    n.转移,转让;</li>
+<li>legs    n.[解剖]腿;</li>
+<li>load    n.负载,负荷,工作量;vi.加载;</li>
+<li>local    n.[计]局部;adj.当地的,局部的;</li>
+<li>named  parameter    命名参数;</li>
+<li>processing    v.加工,处理;</li>
+<li>overloaded  function    重载函数,多载化函数;</li>
+<li>cancel    vt.取消,删除;n.取消,撤销;</li>
+<li>executed    v.履行;adj.已执行的,已生效的;</li>
+<li>undefined    adj.未定义的,不明确的;</li>
+<li>assignment    n.分配,任务;</li>
+<li>describe    vt.描述,形容,描绘;</li>
+<li>order    n.命令,顺序,规则;</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第二篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-er-pian</id>
