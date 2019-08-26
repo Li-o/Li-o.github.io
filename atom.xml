@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-25T14:43:49.433Z</updated>
+    <updated>2019-08-26T03:23:34.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日英语：第五篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-ying-yu-di-wu-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-ying-yu-di-wu-pian">
+        </link>
+        <updated>2019-08-26T03:12:42.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>schema    n.模式，计划，图解，概要</li>
+<li>abstract    n.摘要，抽象</li>
+<li>final    adj.最终的，决定性的</li>
+<li>implements    n.工具 vt.执行，履行，使生效</li>
+<li>interface    n.界面，接口，交界面</li>
+<li>native    adj.本国的，土著的，天然的</li>
+<li>static    adj.静态的</li>
+<li>single    adj.单一的，单身的，单程的 n.一个</li>
+<li>inner    adj.内部的</li>
+<li>init    abbr.初始化</li>
+<li>block    代码块</li>
+<li>template    n.模板，样板</li>
+<li>singleton    单列</li>
+<li>anonymous class    匿名类，匿名类别</li>
+<li>alter    vt.改变，更改</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日英语：第四篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-ying-yu-di-si-pian</id>
