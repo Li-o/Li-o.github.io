@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-26T03:23:34.279Z</updated>
+    <updated>2019-08-27T01:01:00.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日英语：第六篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-ying-yu-di-liu-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-ying-yu-di-liu-pian">
+        </link>
+        <updated>2019-08-27T00:56:18.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>exception    n.列外，异议</li>
+<li>throw    vt.投，抛，掷</li>
+<li>throws    v.投，抛</li>
+<li>substring    n.子串，子链</li>
+<li>error    n.误差，错误</li>
+<li>finally    adv.最后，终于</li>
+<li>catch    vt.赶上，抓住 n.捕捉</li>
+<li>cast    转换</li>
+<li>try    vt.试图，努力，试验</li>
+<li>runtime    n.执行时间，运行时间</li>
+<li>register    vt.登记，注册</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日英语：第五篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-ying-yu-di-wu-pian</id>
