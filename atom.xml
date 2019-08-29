@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-28T14:22:22.422Z</updated>
+    <updated>2019-08-29T01:17:23.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第八篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-ba-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-ba-pian">
+        </link>
+        <updated>2019-08-29T01:09:01.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>annotation    n.注释，注解，释文</li>
+<li>enum    n.枚举</li>
+<li>generic    泛型</li>
+<li>genericity    泛型</li>
+<li>interact    vt.互相影响，互相作用</li>
+<li>metadata    n.元数据</li>
+<li>enumeration    n.列举，计算，细目</li>
+<li>dao    data access object数据访问对象</li>
+<li>serialized    n.序列化，使..成序列</li>
+<li>transient    adj.短暂的</li>
+<li>file    n.文件，档案，文件夹</li>
+<li>input    n.投入，输入</li>
+<li>output    n.输出</li>
+<li>buffer    n.缓冲区</li>
+<li>flush    刷新</li>
+<li>absolute    adj.绝对的，完全的</li>
+<li>serialization    n.序列化，串行化</li>
+<li>serialize    vt.连载，使连续</li>
+<li>stream    流动，流</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日英语：第七篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-ying-yu-di-qi-pian</id>
