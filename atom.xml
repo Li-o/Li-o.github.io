@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-29T02:03:37.631Z</updated>
+    <updated>2019-08-30T01:18:42.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第九篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-jiu-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-jiu-pian">
+        </link>
+        <updated>2019-08-30T01:09:37.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>priority    n.优先，优先权</li>
+<li>synchronized    adj.同步的 v.使协调</li>
+<li>thread    线程</li>
+<li>run    运行</li>
+<li>current    adj.现在的，流通的，通用的，最近的</li>
+<li>lock    vi.锁，锁住，卡住</li>
+<li>notify    vt.通知，唤醒</li>
+<li>interrupted    adj.中断的，被打断的 vt.打断，中断</li>
+<li>mutex    n.互斥，互斥元</li>
+<li>multi-tasking    n.具有多任务同时处理功能</li>
+<li>thread-safe    线程安全的</li>
+<li>multi-thread    多线程</li>
+<li>synchronize    使...同步 vi.同步</li>
+<li>start    vt.开始，启动 vi.出发</li>
+<li>alive    adj.活着的</li>
+<li>join    vt.参见，连接，结合</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第八篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-ba-pian</id>
