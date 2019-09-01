@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-08-31T12:34:53.133Z</updated>
+    <updated>2019-09-01T23:55:40.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,77 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第十二篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-er-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-er-pian">
+        </link>
+        <updated>2019-09-01T23:29:28.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>enhanced    v.提高，加强 adj.加强的，增大的</li>
+<li>component    n.部件，组成，成分</li>
+<li>orientation    n.方向，定位，适应，情况介绍</li>
+<li>pending    adj.未决定的，行将发生的 prep.在...期间，直到...为止 v.待定</li>
+<li>locate    vt.位于，查找...地点 vi.定位，定居</li>
+<li>crash    n.撞碎，坠毁，破产 vi.摔碎，坠落 vt.打碎，是坠毁，擅自闯入</li>
+<li>entry    n.进入，入口，条目，登记</li>
+<li>exhibit    vt.展览，显示，提出 n.展览品，证据 vi.展出，开展览会</li>
+<li>fragments    n.碎片，片段，分段 v.破碎，打碎</li>
+<li>principle    n.原则，原理，主义，道义本质，根源</li>
+<li>trim    vt.修剪，整理 vi.削减 n.修剪，整齐，情形</li>
+<li>first    第一</li>
+<li>close    adj.紧密的，亲密的，亲近的 vi.关，结束 n.结束</li>
+<li>sum    n.金额，总数 vi.概括 vt.总结，合计</li>
+<li>salary    vt.给...加薪 n.薪水</li>
+<li>check    vt.检查，核对，制止</li>
+<li>express    vt.表达，快递 n.快车，快递 adj.明确的，迅速的，专门的</li>
+<li>half    n.一半，半场 adj.一半的，不完全的 adv.部分的</li>
+<li>middle    adj.中间的，中部的，中级的 n.中间，中央 vt.把...放在中间</li>
+<li>signal    n.信号，暗号，导火线 vt.标志，用信号通知 adj.作为信号 vi.发信号</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第十一篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-yi-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-yi-pian">
+        </link>
+        <updated>2019-09-01T03:12:42.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>invoke    vt.调用</li>
+<li>reflection    n.反射，映射</li>
+<li>type    n.类型，品种</li>
+<li>reflect    vt.反射，反映</li>
+<li>handle    vt.处理，操作</li>
+<li>proxy    n.代理人</li>
+<li>declared   adj.公然地，公开宣布的</li>
+<li>classloader    类装载器</li>
+<li>bootstrap    n.引导程序，辅助程序</li>
+<li>handler    n.处理者，管理者</li>
+<li>dynamic    adj.动态的</li>
+<li>AOP    abbr.面向切面的程序设计</li>
+<li>browser    n.浏览器</li>
+<li>connection    n.连接，关系，连接件</li>
+<li>port    端口</li>
+<li>host    n.主机，主人</li>
+<li>client    n.客户，顾客</li>
+<li>receives    v.接受，接收</li>
+<li>server    服务器</li>
+<li>network    n.网络</li>
+<li>internet    n.因特网</li>
+<li>datagram    n.数据报</li>
+<li>packet    n.数据包，信息包</li>
+<li>localhost    n.本地主机，本地服务器</li>
+<li>connectivity    n.连通性</li>
+<li>protocol    n.协议，草案 vt.拟定</li>
+<li>tcp    abbr.传输控制协议</li>
+<li>udp    abbr.用户数据报协议</li>
+<li>url    abbr.全球资源定位器</li>
+<li>hostname    n.主机名称，主名</li>
+<li>host address    主机地址</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第十篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-pian</id>
@@ -280,124 +351,6 @@
 <li>assignment    n.分配,任务;</li>
 <li>describe    vt.描述,形容,描绘;</li>
 <li>order    n.命令,顺序,规则;</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第二篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-er-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-er-pian">
-        </link>
-        <updated>2019-08-19T01:34:09.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>boolean    布尔;</li>
-<li>const    n.常数,常量;</li>
-<li>constant     n.恒量;</li>
-<li>continue    vi.继续,连续;</li>
-<li>default    默认的,缺省的;</li>
-<li>false    adj.错误的;</li>
-<li>goto    vt.转到;</li>
-<li>switch    vt.转换,选择;</li>
-<li>while    当......的时候;</li>
-<li>data    n.数据,资料;</li>
-<li>byte    字节型;</li>
-<li>short    短整型;</li>
-<li>true    adj.正确的;</li>
-<li>binary    adj.二进制;</li>
-<li>octal    adj.八进制;</li>
-<li>hex    adj.十六进制;</li>
-<li>if    如果,假如;</li>
-<li>else    adv.其它,否则,另外;</li>
-<li>function    n.功能,函数;</li>
-<li>return    vt.返回,返回的;</li>
-<li>develop    vt.开发,进步;</li>
-<li>keyword    n.关键字;</li>
-<li>variable    adj.变量的,可变的;n.变量;</li>
-<li>break    v.打破,停止;</li>
-<li>unicode    n.采用双字节对字符进行编码;</li>
-<li>string    字符串;</li>
-<li>utf-8    n.统一码转换格式;</li>
-<li>for    prep.为了,因为;</li>
-<li>do    n.要求,规定;v.做,干;</li>
-<li>double    双精度浮点数;</li>
-<li>case    n.情况,实列;</li>
-<li>instanceof    n.实列,运算符;</li>
-<li>int    整型;</li>
-<li>char    字符型;</li>
-<li>long    长整型;</li>
-<li>float    浮点型;</li>
-<li>demo    n.演示;</li>
-<li>assign    vt.分配,指派;</li>
-<li>sqrt    abbr.开平方;</li>
-<li>commit    n.提交;</li>
-<li>bit    n.比特;</li>
-<li>decimalism    十进制;</li>
-<li>positive    n.正数;确定的;</li>
-<li>negative    adj.负的,否定的;n.否定,负数;</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第一篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-yi-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-yi-pian">
-        </link>
-        <updated>2019-08-18T07:04:17.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>address    vt.演说;n.地址;</li>
-<li>algorithm    n.算数,运算法则;</li>
-<li>android    n.机器人,安卓操作系统;</li>
-<li>API    addr.应用程序接口;</li>
-<li>applet    n.支程序,小应用程序;</li>
-<li>application    n.申请,应用程序;</li>
-<li>arguments    n.参数;</li>
-<li>ASCII    abbr.美国信息交换标准码;</li>
-<li>aseert    vt.坚持,声称;</li>
-<li>author    n.作者;</li>
-<li>class    java类;</li>
-<li>classpath    n.类路径(一个环境变量);</li>
-<li>code    n.代码,vt.编码;</li>
-<li>command    vi.命令,控制;</li>
-<li>compilation    n.编辑;</li>
-<li>compile    vt.编译,编辑;</li>
-<li>console    n.[计]控制台,[电]操纵台;</li>
-<li>CPU    abbr.中央处理器;</li>
-<li>development    n.发展,开发;</li>
-<li>directory    n.[计]目录;</li>
-<li>document    n.[计]文档,证件;</li>
-<li>eclipse    一个集成开发环境;</li>
-<li>edit    vt.编辑,校订;</li>
-<li>edition    n.版本;</li>
-<li>encoding    n. v.[计]编码；</li>
-<li>execute    vt.实行,执行;</li>
-<li>exist    vi.存在;</li>
-<li>folder    n.文件夹;</li>
-<li>IDE    集成开发环境;</li>
-<li>javac    n.java编译程序;</li>
-<li>JDK    abbr.java开发工具包;</li>
-<li>JRE    abbr.java运行环境;</li>
-<li>JVM    abbr.java虚拟机;</li>
-<li>Kit    n.工具箱;</li>
-<li>lang    abbr.语言(language);</li>
-<li>line    n.路线,排;vt.排成一行;</li>
-<li>machine    n.机械;机器;</li>
-<li>main    n.主要部分,java:主方法;</li>
-<li>micro    adj.极小的,微小的;</li>
-<li>out    adj.外面的;</li>
-<li>param    abbr.参数;</li>
-<li>path    n.道路,路径;</li>
-<li>platform    n.平台;</li>
-<li>print    vt.印刷,打印;</li>
-<li>println    n.换行打印;</li>
-<li>program    n.程序;</li>
-<li>programming    n.设计,编制程序；</li>
-<li>public    adj.公共的,公用的;</li>
-<li>source code    源程序;</li>
-<li>standard    n.标准;</li>
-<li>system    n.制度,系统;</li>
-<li>version    n.版本;</li>
-<li>void    adj.空的,无效的;</li>
-<li>word    n.单词,消息;</li>
 </ol>
 ]]></content>
     </entry>
