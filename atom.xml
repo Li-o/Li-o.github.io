@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-03T02:20:52.180Z</updated>
+    <updated>2019-09-03T13:45:41.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -16,21 +16,17 @@
         <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-er-pian">
         </link>
         <updated>2019-09-03T01:37:30.000Z</updated>
-        <summary type="html"><![CDATA[<ol>
-<li>图片格式</li>
-<li>meta标签</li>
-<li>xhtml语法规范</li>
-<li>内联框架</li>
-<li>超链接</li>
-</ol>
+        <summary type="html"><![CDATA[<p>图片格式<br>
+meta标签<br>
+xhtml语法规范<br>
+内联框架<br>
+超链接</p>
 ]]></summary>
-        <content type="html"><![CDATA[<ol>
-<li>图片格式</li>
-<li>meta标签</li>
-<li>xhtml语法规范</li>
-<li>内联框架</li>
-<li>超链接</li>
-</ol>
+        <content type="html"><![CDATA[<p>图片格式<br>
+meta标签<br>
+xhtml语法规范<br>
+内联框架<br>
+超链接</p>
 ]]></content>
     </entry>
     <entry>
