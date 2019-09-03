@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-02T01:32:33.664Z</updated>
+    <updated>2019-09-03T02:20:52.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[html&css复习：第二篇]]></title>
+        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-er-pian</id>
+        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-er-pian">
+        </link>
+        <updated>2019-09-03T01:37:30.000Z</updated>
+        <summary type="html"><![CDATA[<ol>
+<li>图片格式</li>
+<li>meta标签</li>
+<li>xhtml语法规范</li>
+<li>内联框架</li>
+<li>超链接</li>
+</ol>
+]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>图片格式</li>
+<li>meta标签</li>
+<li>xhtml语法规范</li>
+<li>内联框架</li>
+<li>超链接</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第十三篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-san-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-san-pian">
+        </link>
+        <updated>2019-09-03T01:25:21.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[html&css复习：第一篇]]></title>
         <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-yi-pian</id>
@@ -91,19 +121,5 @@
         <link href="https://li-o.github.io/post/mei-ri-ying-yu-di-si-pian">
         </link>
         <updated>2019-08-25T14:14:40.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第三篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-san-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-san-pian">
-        </link>
-        <updated>2019-08-20T00:02:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第二篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-er-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-er-pian">
-        </link>
-        <updated>2019-08-19T01:34:09.000Z</updated>
     </entry>
 </feed>
