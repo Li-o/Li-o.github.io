@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>每日单词：第二篇 | Li-o</title>
+<title>html&amp;css复习：第四篇 | Li-o</title>
 <meta name="description" content="路漫漫其修远兮，吾将上下而求索。">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -92,63 +92,62 @@
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
-            <h2 class="post-title">每日单词：第二篇</h2>
-            <div class="post-date">2019-08-19</div>
+            <h2 class="post-title">html&amp;css复习：第四篇</h2>
+            <div class="post-date">2019-09-04</div>
             
             <div class="post-content">
-              <ol>
-<li>boolean    布尔;</li>
-<li>const    n.常数,常量;</li>
-<li>constant     n.恒量;</li>
-<li>continue    vi.继续,连续;</li>
-<li>default    默认的,缺省的;</li>
-<li>false    adj.错误的;</li>
-<li>goto    vt.转到;</li>
-<li>switch    vt.转换,选择;</li>
-<li>while    当......的时候;</li>
-<li>data    n.数据,资料;</li>
-<li>byte    字节型;</li>
-<li>short    短整型;</li>
-<li>true    adj.正确的;</li>
-<li>binary    adj.二进制;</li>
-<li>octal    adj.八进制;</li>
-<li>hex    adj.十六进制;</li>
-<li>if    如果,假如;</li>
-<li>else    adv.其它,否则,另外;</li>
-<li>function    n.功能,函数;</li>
-<li>return    vt.返回,返回的;</li>
-<li>develop    vt.开发,进步;</li>
-<li>keyword    n.关键字;</li>
-<li>variable    adj.变量的,可变的;n.变量;</li>
-<li>break    v.打破,停止;</li>
-<li>unicode    n.采用双字节对字符进行编码;</li>
-<li>string    字符串;</li>
-<li>utf-8    n.统一码转换格式;</li>
-<li>for    prep.为了,因为;</li>
-<li>do    n.要求,规定;v.做,干;</li>
-<li>double    双精度浮点数;</li>
-<li>case    n.情况,实列;</li>
-<li>instanceof    n.实列,运算符;</li>
-<li>int    整型;</li>
-<li>char    字符型;</li>
-<li>long    长整型;</li>
-<li>float    浮点型;</li>
-<li>demo    n.演示;</li>
-<li>assign    vt.分配,指派;</li>
-<li>sqrt    abbr.开平方;</li>
-<li>commit    n.提交;</li>
-<li>bit    n.比特;</li>
-<li>decimalism    十进制;</li>
-<li>positive    n.正数;确定的;</li>
-<li>negative    adj.负的,否定的;n.否定,负数;</li>
-</ol>
+              <p><strong>伪类选择器</strong><br>
+<strong>伪元素</strong><br>
+<strong>属性选择器</strong><br>
+<strong>子元素的伪类</strong><br>
+<strong>兄弟元素选择器</strong></p>
+<!-- more -->
+<p><strong>1.伪类选择器</strong><br>
+专门用来表示元素的一种特殊的状态。<br>
+例如：访问过的超链接，普通的超链接，获取焦点的文本框<br>
+当我们需要处理在这些特殊状态元素设置样式时，就可使用伪类。<br>
+-a:link    正常连接<br>
+-a:visited    访问过连接<br>
+-a:hover    鼠标移入<br>
+-a:active    超链接被点击状态<br>
+其他元素也可以使用hover和active<br>
+注：当给a标签添加伪类的时候，要按照l v h a的顺序编写</p>
+<p><strong>2.伪元素</strong><br>
+用来表示元素中的一些特殊位置<br>
+首字母元素：first-letter { }<br>
+第一行元素：first-line { }<br>
+元素最前边部分元素：before { }<br>
+元素最后边部分元素：after { }<br>
+一般before都需要结合content样式一起使用，通过content可以想before或after的位置添加内容。</p>
+<p><strong>3.属性选择器</strong><br>
+可以根据元素中的属性或属性值来选取指定元素<br>
+语法：<br>
+元素【属性】{ }选取含有指定属性的元素<br>
+元素【属性=“值”】{ }选取含有属性值的元素<br>
+元素【属性^=“值”】{ }选取以指定内容开头的元素<br>
+元素【属性$=“值”】{ }选取以指定内容结尾的元素<br>
+元素【属性*=“值”】{ }选取含有特定指的元素</p>
+<p><strong>4.子元素的伪类</strong><br>
+：first-child    选择第一个子标签，父标签的第一个子标签<br>
+：last-child    选择最后一个子标签<br>
+：nth-child（）{ }    可以选中任意位置子标签，可以指定一个参数，指定选中第几个子元素<br>
+even 偶数<br>
+odd 奇数<br>
+：first-of-type<br>
+：last-of-type<br>
+：nth-of-type<br>
+这三个和first-child非常相似，只不过child是在所有的子元素中排列，而type是在当前类型的子元素排列。</p>
+<p><strong>5.兄弟元素选择器</strong><br>
+可以选择一个标签后紧挨着的指定的兄弟元素<br>
+语法：<br>
+前一个+后一个{ }</p>
 
             </div>
             
               <div class="tag-container">
                 
-                  <a href="https://li-o.github.io/tag/MDm4viflu" class="tag">
-                    英语
+                  <a href="https://li-o.github.io/tag/1eH8u7gzH" class="tag">
+                    html&amp;css
                   </a>
                 
               </div>
@@ -156,9 +155,9 @@
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-yi-pian">
+                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-si-pian">
                   <h3 class="post-title">
-                    每日单词：第一篇
+                    每日单词：第十四篇
                   </h3>
                 </a>
               </div>
