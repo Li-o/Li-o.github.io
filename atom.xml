@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-07T00:56:06.598Z</updated>
+    <updated>2019-09-07T15:15:37.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[html&css复习：第七篇]]></title>
+        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-qi-pian</id>
+        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-qi-pian">
+        </link>
+        <updated>2019-09-07T14:46:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>字体样式一</strong><br>
+<strong>字体分类</strong><br>
+<strong>字体样式二</strong><br>
+<strong>行高</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>字体样式一</strong><br>
+<strong>字体分类</strong><br>
+<strong>字体样式二</strong><br>
+<strong>行高</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第十七篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-qi-pian</id>
@@ -154,12 +171,5 @@ xhtml语法规范<br>
 实体<br>
 图片标签</strong></p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第十二篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-er-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-er-pian">
-        </link>
-        <updated>2019-09-01T23:29:28.000Z</updated>
     </entry>
 </feed>
