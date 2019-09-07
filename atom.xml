@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-06T15:00:20.788Z</updated>
+    <updated>2019-09-07T00:56:06.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第十七篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-qi-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-qi-pian">
+        </link>
+        <updated>2019-09-07T00:42:37.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[html&css复习：第六篇]]></title>
         <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-liu-pian</id>
@@ -154,12 +161,5 @@ xhtml语法规范<br>
         <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-er-pian">
         </link>
         <updated>2019-09-01T23:29:28.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第十一篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-yi-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-yi-pian">
-        </link>
-        <updated>2019-09-01T03:12:42.000Z</updated>
     </entry>
 </feed>
