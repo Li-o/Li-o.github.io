@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>html&amp;css复习：第七篇 | Li-o</title>
+<title>html&amp;css复习：第八篇 | Li-o</title>
 <meta name="description" content="路漫漫其修远兮，吾将上下而求索。">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -92,54 +92,67 @@
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
-            <h2 class="post-title">html&amp;css复习：第七篇</h2>
-            <div class="post-date">2019-09-07</div>
+            <h2 class="post-title">html&amp;css复习：第八篇</h2>
+            <div class="post-date">2019-09-08</div>
             
             <div class="post-content">
-              <p><strong>字体样式一</strong><br>
-<strong>字体分类</strong><br>
-<strong>字体样式二</strong><br>
-<strong>行高</strong></p>
-<!--more-->
-<p><strong>1.字体样式一</strong><br>
-设置字体颜色：color<br>
-设置字体大小：font-size 设置的并不是文字大小，在页面中，每个文字都在一框里，font-size设置的是框的大小，一般文字比框小一些。<br>
-设置字体：font-family 当采用某种字体时，如果浏览器不支持则使用浏览器默认字体，可以同时指定多个字体，多个字体用逗号分隔开浏览器会优先使用前面字体，浏览器使用的字体就是计算机中的字体。在开发中尽量不要使用奇怪字，有可能用户的电脑中没有，达不到效果。</p>
-<p><strong>2.字体分类</strong><br>
-serif：衬线字体<br>
-sans-serif：非衬线字体<br>
-monospace：等宽字体<br>
-cursive：草书字体<br>
-fantasy：虚幻字体<br>
-可以将字体设置为这些大的分类，当设置大的分类后，浏览器会自动选择指定的字体并应用。<br>
-一般将字体的大分类，指定为font-family最后的字体。</p>
-<p><strong>3.字体样式二</strong><br>
-font-style：可以用来设置文字的斜体<br>
+              <p><strong>文本样式</strong><br>
+<strong>盒子模型简介</strong><br>
+<strong>盒子模型边框</strong><br>
+<strong>边框简写属性</strong></p>
+<!-- more -->
+<p><strong>1.文本样式</strong><br>
+text-transform：可以用来设置文本的大小写<br>
 可选值：<br>
-normal：默认值，文字正常显示<br>
-italic：文字以斜体显示<br>
-oblique：文字会以倾斜的效果显示<br>
-大部分浏览器都不会对斜体和倾斜做区分，一般只使用italic</p>
-<p>font-weight：可以用来设置文本的粗细<br>
+none：不做任何处理<br>
+capitalize：单词的首字母大写，通过空格来识别单词<br>
+uppercase：所有字母都大写<br>
+lowercase：所有字母都小写</p>
+<p>text-decoration：规定添加到文本修饰<br>
 可选值：<br>
-bold：文字加粗显示，该样式也可以设置100-900之间的9个值，但是由于用户计算机没有这么多级别的字体，所以达到我们想要的效果200可能比100粗，但是也可能一样。</p>
-<p>font-variant：可以用来设置小型大写字母<br>
+none：不添加任何修饰<br>
+underline：添加下划线<br>
+overline：添加上划线<br>
+line-through：为文本添加删除线<br>
+超链接会默认添加下划线，去掉下划线用none</p>
+<p>letter-spacing：增加或减少字符间距<br>
+word-spacing：可以设置词之间的间距，词与词之间空格的大小<br>
+text-align：用于设置文本的对齐方式<br>
 可选值：<br>
-small-caps：小型大写字母显示，所有字母都大写形式显示，但小写字母的大写要比大写字母的大小小一些。</p>
-<p>font：可以同时设置字体相关所有样式，不同值使用空格隔开。<br>
-font：italic small-caps bold 60px “微软雅黑”；<br>
-使用font设置字体样式，斜体加粗大小字母没有顺序要求，甚至可写可不写。如果不写则使用默认值，但是要求大小和字体必须写，而且字体必须是最后一个样式，大小必须是倒数第二个。<br>
-实际上使用简单属性也会有一个比较好的性能。</p>
-<p><strong>4.行高</strong><br>
-行间距：通过设置行高间接设置行间距<br>
-使用line-height来设置行高，文字默认在行高中垂直居中显示。<br>
-行间距=行高 - 字体大小<br>
-1）可以直接用值<br>
-2）可以用百分数，相对于字体计算行高<br>
-3）可以直接传一个数值，行高会设置字体大小相应倍数<br>
-对于单行文本来说，可以将行高设置和父元素一样高，这样可以是单行文本在父元素垂直居中显示<br>
-在font中也可以设置行高：字体大小/行高<br>
-在字体后添加/指定行高，如果不指定则使用默认值</p>
+left：左对齐<br>
+right：右对齐<br>
+center：居中对齐<br>
+justify：两端对齐，通过调整文本之间空格的大小来达到一个两端对齐<br>
+text-indent：可以设置首行缩进，只对第一行有影响，使用em做单位<br>
+1em = 1font-size 负值时可以左移，隐藏内容。</p>
+<p><strong>2.盒子模型简介</strong><br>
+内容区（content）+内边距（padding）+边框（border）+外边距（margin）</p>
+<p><strong>3.盒子模型边框</strong><br>
+使用width来设置盒子内容区宽度<br>
+使用height来设置盒子内容区高度</p>
+<p>为元素设置边框：要为一个元素设置边框必须指定三个样式<br>
+border-width：边框的宽度<br>
+border-color：边框的颜色<br>
+border-style：边框的样式</p>
+<p>盒子可见框的大小由内容区，内边距和边框共同决定</p>
+<p>border-width：可以分别指定四个边框的宽度；<br>
+border-width：10px 20px 30px 40px；按照顺时针方向设置，上右下左。<br>
+如果指定四个值：上，右，下，左<br>
+如果指定三个值：上，左右，下<br>
+如果指定俩个值：上下，左右<br>
+如果指定一个值：则设置给上下左右四个边</p>
+<p>除了border-width css中还提供了border-xxx-width可以换为color style同适用<br>
+设置边框的样式：<br>
+可选值：<br>
+solid：实线<br>
+dotted：点状边框<br>
+dashed：虚线边框<br>
+double：双线边框</p>
+<p><strong>4.边框简写属性</strong><br>
+大部分的浏览器中，边框的宽度和颜色都是有默认值的，而边框的样式默认值都是none<br>
+border：边框的简写样式，可以同时设置四个边框的样式，宽度颜色而且没有任何顺序要求同时指定四个边，不能分别指定。<br>
+border：10px red solid；<br>
+border-top，border-right，border-bottom，border-left可以单独设置四个边的样式，规则和border一样，不过只对一条边生效。如果设置三条边可以用border然后border-xxx边不要的进行置空none。</p>
 
             </div>
             
@@ -154,9 +167,9 @@ font：italic small-caps bold 60px “微软雅黑”；<br>
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-qi-pian">
+                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-ba-pian">
                   <h3 class="post-title">
-                    每日单词：第十七篇
+                    每日单词：第十八篇
                   </h3>
                 </a>
               </div>
