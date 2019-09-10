@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-09T00:54:45.636Z</updated>
+    <updated>2019-09-10T03:21:19.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[每日单词：第二十篇]]></title>
+        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-er-shi-pian</id>
+        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-er-shi-pian">
+        </link>
+        <updated>2019-09-10T03:09:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html&css复习：第九篇]]></title>
+        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-jiu-pian</id>
+        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-jiu-pian">
+        </link>
+        <updated>2019-09-10T02:32:13.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>盒模型-内边距</strong><br>
+<strong>盒模型-外边距</strong><br>
+<strong>垂直外边距的重叠</strong><br>
+<strong>浏览器默认样式</strong><br>
+<strong>内联元素的盒模型</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>盒模型-内边距</strong><br>
+<strong>盒模型-外边距</strong><br>
+<strong>垂直外边距的重叠</strong><br>
+<strong>浏览器默认样式</strong><br>
+<strong>内联元素的盒模型</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第十九篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-jiu-pian</id>
@@ -130,32 +156,6 @@
 <strong>属性选择器</strong><br>
 <strong>子元素的伪类</strong><br>
 <strong>兄弟元素选择器</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第十四篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-si-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-si-pian">
-        </link>
-        <updated>2019-09-04T01:30:54.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[html&css复习：第三篇]]></title>
-        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-san-pian</id>
-        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-san-pian">
-        </link>
-        <updated>2019-09-03T14:17:27.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>css简介<br>
-外部样式表<br>
-css的语法<br>
-内联和块元素<br>
-常用选择器</strong></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>css简介<br>
-外部样式表<br>
-css的语法<br>
-内联和块元素<br>
-常用选择器</strong></p>
 ]]></content>
     </entry>
 </feed>

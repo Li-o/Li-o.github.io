@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>每日单词：第八篇 | Li-o</title>
+<title>html&amp;css复习：第九篇 | Li-o</title>
 <meta name="description" content="路漫漫其修远兮，吾将上下而求索。">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -92,38 +92,59 @@
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
-            <h2 class="post-title">每日单词：第八篇</h2>
-            <div class="post-date">2019-08-29</div>
+            <h2 class="post-title">html&amp;css复习：第九篇</h2>
+            <div class="post-date">2019-09-10</div>
             
             <div class="post-content">
-              <ol>
-<li>annotation    n.注释，注解，释文</li>
-<li>enum    n.枚举</li>
-<li>generic    泛型</li>
-<li>genericity    泛型</li>
-<li>interact    vt.互相影响，互相作用</li>
-<li>metadata    n.元数据</li>
-<li>enumeration    n.列举，计算，细目</li>
-<li>dao    data access object数据访问对象</li>
-<li>serialized    n.序列化，使..成序列</li>
-<li>transient    adj.短暂的</li>
-<li>file    n.文件，档案，文件夹</li>
-<li>input    n.投入，输入</li>
-<li>output    n.输出</li>
-<li>buffer    n.缓冲区</li>
-<li>flush    刷新</li>
-<li>absolute    adj.绝对的，完全的</li>
-<li>serialization    n.序列化，串行化</li>
-<li>serialize    vt.连载，使连续</li>
-<li>stream    流动，流</li>
-</ol>
+              <p><strong>盒模型-内边距</strong><br>
+<strong>盒模型-外边距</strong><br>
+<strong>垂直外边距的重叠</strong><br>
+<strong>浏览器默认样式</strong><br>
+<strong>内联元素的盒模型</strong></p>
+<!--more-->
+<p><strong>1.盒模型-内边距</strong><br>
+指的是盒子内容区与盒子边框之间的距离，一共有四个方向的内边距：<br>
+padding-top：<br>
+padding-right：<br>
+padding-bottom：<br>
+padding-left：<br>
+设置四个方向的内边距，内边距回影响盒子的可见框的大小，元素的背景会延伸到内边距<br>
+盒子可见框的宽度=左边框+左边距+内容框+右边距+右边框 高度同理<br>
+使用padding可以同时设置四个边框的样式，规则和border-width一样</p>
+<p><strong>2.盒模型-外边距</strong><br>
+指的是盒子与其他盒子之间的距离，不会影响可见框大小，而是会影响到盒子位置<br>
+盒子有四个方向外边距：<br>
+margin-top：<br>
+margin-right：<br>
+margin-bottom：<br>
+margin-left：<br>
+由于页面中的元素靠左考上摆放的，所以注意当我们设置上和左外边距时，会导致盒子自身位置发生改变，设置右和下外边距会改变其他盒子位置。<br>
+外边距也可以指定一个负值，如果外边距设置是一个负值，则元素会向反方向移动。<br>
+margin还可以设置为auto，auto一般只设置给水平方向的margin，如果只指定左/右外边距margin为auto则会将外边距设置为最大值，如果将left和right同时设置为auto，则会将两侧的外边距设置相同值，就可以使元素自动在父元素中居中，所以我们经常将左右外边距设置为auto以使子元素在父元素中水平居中。<br>
+外边距同样可以使用简写属性margin，同时设置四个外边距规则和padding一样</p>
+<p><strong>3.垂直外边距的重叠</strong><br>
+在网页中垂直方向相邻外边距会发生外边距重叠，所谓的外边距重叠指兄弟元素之间的相邻外边距会取最大值而不是取和。<br>
+如果父子元素垂直外边距相邻了，则子元素的外边距会设置给父元素。</p>
+<p><strong>4.浏览器默认样式</strong><br>
+body： {<br>
+margin ： 0 ；<br>
+padding ： 0 ；<br>
+}<br>
+可以用 * 代替body</p>
+<p><strong>5.内联元素的盒模型</strong><br>
+内联元素不能设置width和height<br>
+内联元素可以设置水平方向内边距<br>
+内联元素可以设置垂直方向内边距，但是不会影响布局<br>
+内联元素可以设置边框，但是垂直方向边框不会影响布局<br>
+内联元素支持水平方向外边距，水平方向外边距不会重叠，而是求和<br>
+内联元素不支持垂直方向外边距</p>
 
             </div>
             
               <div class="tag-container">
                 
-                  <a href="https://li-o.github.io/tag/MDm4viflu" class="tag">
-                    英语
+                  <a href="https://li-o.github.io/tag/1eH8u7gzH" class="tag">
+                    html&amp;css
                   </a>
                 
               </div>
@@ -131,9 +152,9 @@
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="https://li-o.github.io/post/mei-ri-ying-yu-di-qi-pian">
+                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-jiu-pian">
                   <h3 class="post-title">
-                    每日英语：第七篇
+                    每日单词：第十九篇
                   </h3>
                 </a>
               </div>
