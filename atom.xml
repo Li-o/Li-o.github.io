@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-11T01:29:07.518Z</updated>
+    <updated>2019-09-11T13:52:17.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[html&css复习：第十篇]]></title>
+        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-pian</id>
+        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-pian">
+        </link>
+        <updated>2019-09-11T01:34:25.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>display和visibility</strong><br>
+<strong>overflow</strong><br>
+<strong>文档流</strong><br>
+<strong>浮动一</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>display和visibility</strong><br>
+<strong>overflow</strong><br>
+<strong>文档流</strong><br>
+<strong>浮动一</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日单词：第二十一篇]]></title>
         <id>https://li-o.github.io/post/mei-ri-dan-ci-di-er-shi-yi-pian</id>
@@ -138,12 +155,5 @@
 <strong>选择器优先级</strong><br>
 <strong>文本标签</strong></p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日单词：第十五篇]]></title>
-        <id>https://li-o.github.io/post/mei-ri-dan-ci-di-shi-wu-pian</id>
-        <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-wu-pian">
-        </link>
-        <updated>2019-09-05T02:29:25.000Z</updated>
     </entry>
 </feed>
