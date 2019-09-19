@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://li-o.github.io</id>
     <title>Li-o</title>
-    <updated>2019-09-13T14:32:27.619Z</updated>
+    <updated>2019-09-19T14:28:35.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://li-o.github.io"/>
     <link rel="self" href="https://li-o.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://li-o.github.io/images/avatar.png</logo>
     <icon>https://li-o.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Li-o</rights>
+    <entry>
+        <title type="html"><![CDATA[html&css复习：第十三篇]]></title>
+        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-san-pian</id>
+        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-san-pian">
+        </link>
+        <updated>2019-09-19T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>opacity</strong><br>
+<strong>背景</strong><br>
+<strong>图片整合技术</strong><br>
+<strong>表格简介</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>opacity</strong><br>
+<strong>背景</strong><br>
+<strong>图片整合技术</strong><br>
+<strong>表格简介</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[html&css复习：第十二篇]]></title>
         <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-er-pian</id>
@@ -148,22 +165,5 @@
         <link href="https://li-o.github.io/post/mei-ri-dan-ci-di-shi-qi-pian">
         </link>
         <updated>2019-09-07T00:42:37.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[html&css复习：第六篇]]></title>
-        <id>https://li-o.github.io/post/htmlandcss-fu-xi-di-liu-pian</id>
-        <link href="https://li-o.github.io/post/htmlandcss-fu-xi-di-liu-pian">
-        </link>
-        <updated>2019-09-06T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>无序列表和有序列表</strong><br>
-<strong>定义列表</strong><br>
-<strong>长度单位</strong><br>
-<strong>RGB值</strong></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>无序列表和有序列表</strong><br>
-<strong>定义列表</strong><br>
-<strong>长度单位</strong><br>
-<strong>RGB值</strong></p>
-]]></content>
     </entry>
 </feed>
