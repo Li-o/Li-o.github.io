@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>每日单词：第十篇 | Li-o</title>
+<title>html&amp;css复习：第十四篇 | Li-o</title>
 <meta name="description" content="路漫漫其修远兮，吾将上下而求索。">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -92,34 +92,46 @@
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
-            <h2 class="post-title">每日单词：第十篇</h2>
-            <div class="post-date">2019-08-31</div>
+            <h2 class="post-title">html&amp;css复习：第十四篇</h2>
+            <div class="post-date">2019-09-21</div>
             
             <div class="post-content">
-              <ol>
-<li>frame    n.框架，结构</li>
-<li>provide    vt.提供，规定</li>
-<li>uppercase    adj.大写字母的 n.大写字母</li>
-<li>lowercase    n.小写字母</li>
-<li>stringbuffer    缓冲字符串处理类</li>
-<li>concat    n.合并多个数组，合并多个字符串</li>
-<li>date    n.日期，约会</li>
-<li>random    adj.随机的，任意的</li>
-<li>parse    vt.解析</li>
-<li>math    n.数学</li>
-<li>focus    n.焦点，中心</li>
-<li>debug    vt.调试，除错</li>
-<li>graph    n.图表，曲线图</li>
-<li>calendar    n.日历</li>
-<li>format    n.格式 vt.使格式化</li>
-</ol>
+              <p><strong>表格样式</strong><br>
+<strong>长表格</strong><br>
+<strong>使用表格布局</strong><br>
+<strong>完善clearfix</strong></p>
+<!--more-->
+<p><strong>1.表格样式</strong><br>
+table和td边框之间默认有一个距离，可以通过border-spacing属性来设置这个距离<br>
+border-collapse可以用来设置表达的边框合并，如果设置了边框合并，border-spacing会自动失效<br>
+可以使用th（加粗居中）表示表头中的内容，效果和td一样，语义<br>
+隔行变色：tr：nth-child（even）<br>
+鼠标移入：tr：hover<br>
+<strong>2.长表格</strong><br>
+有一些情况下表格是非常长的，这时就需要将表格分为三个部分，表头，表格的主体，表格底部。在我们html中为我们提供了三个标签<br>
+thead：表头<br>
+tbody：表格主体<br>
+tfoot：表格的底部<br>
+这三个标签的作用，就是用来区分表格不同的部分，他们都是table的子标签，都需要直接写到table中，tr需要写在这些标签当中。如果表格中没有写tbody，浏览器会自动在表格中添加tbody并且将所有的tr都放到tbody中，所以注意tr并不是table的子元素，而是tbody的子元素，通过table&gt;tr无法选中行，需要通过tbody&gt;tr<br>
+<strong>3.使用表格布局</strong><br>
+以前表格更多的情况实际上是用来对页面进行布局的，但是这种方式早被css淘汰了。表格的列数由td最多的那行决定，表格是可嵌套的，可以在td中在嵌套一个table<br>
+<strong>4.完善clearfix</strong><br>
+子元素和父元素相邻的垂直外边距会发生重叠，子元素的外边距会传递给父元素使用空table标签可以隔离父子元素的外边距，组织外边距的重叠。<br>
+display：table可以将一个元素设置为表格显示<br>
+解决父子元素外边距重叠和父元素塌陷<br>
+.clearfix:before<br>
+.clearfix:after{<br>
+content：“”；<br>
+display：table；<br>
+clear：both；<br>
+}</p>
 
             </div>
             
               <div class="tag-container">
                 
-                  <a href="https://li-o.github.io/tag/MDm4viflu" class="tag">
-                    英语
+                  <a href="https://li-o.github.io/tag/1eH8u7gzH" class="tag">
+                    html&amp;css
                   </a>
                 
               </div>
@@ -127,9 +139,9 @@
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="https://li-o.github.io/post/mei-ri-dan-ci-di-jiu-pian">
+                <a href="https://li-o.github.io/post/htmlandcss-fu-xi-di-shi-san-pian">
                   <h3 class="post-title">
-                    每日单词：第九篇
+                    html&amp;css复习：第十三篇
                   </h3>
                 </a>
               </div>
